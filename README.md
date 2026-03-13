@@ -1,29 +1,37 @@
-# 📊 E-Commerce Sales Dashboard (Excel)
+# 🛒 E-Commerce Sales Dashboard
 
-## 📌 Project Overview
+![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-217346?logo=microsoft-excel\&logoColor=white)
+![Data Analytics](https://img.shields.io/badge/Field-Data%20Analytics-orange)
+![Dashboard](https://img.shields.io/badge/Project-Dashboard%20Visualization-blue)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
-This project presents an **interactive sales dashboard built using Microsoft Excel** to analyze e-commerce business performance.
+---
 
-The dashboard helps visualize **sales trends, customer behavior, product popularity, and delivery performance** through interactive charts and filters.
+## 📊 Project Overview
 
-The goal of this project is to demonstrate **data analysis and dashboard creation skills using Excel**.
+This project presents an **interactive E-Commerce Sales Dashboard built using Microsoft Excel** to analyze business performance and uncover actionable insights.
+
+The dashboard visualizes **sales trends, customer purchasing behavior, product demand, and delivery performance** through interactive charts and filters.
+
+The primary goal of this project is to demonstrate **data analysis, dashboard design, and business intelligence skills using Excel**.
 
 ---
 
 ## 🛠 Tools & Technologies
 
-* Microsoft Excel
-* Pivot Tables
-* Pivot Charts
-* Data Cleaning
-* Data Visualization
-* Interactive Filters (Slicers)
+| Tool                | Purpose                              |
+| ------------------- | ------------------------------------ |
+| **Microsoft Excel** | Data analysis and dashboard creation |
+| **Pivot Tables**    | Data summarization                   |
+| **Pivot Charts**    | Visual representation of trends      |
+| **Slicers**         | Interactive filtering                |
+| **Data Cleaning**   | Preparing raw data for analysis      |
 
 ---
 
 ## 📂 Dataset Description
 
-The dataset used in this project contains e-commerce order information such as:
+The dataset used in this project contains **e-commerce order information** including:
 
 * Order ID
 * Product Category
@@ -34,36 +42,40 @@ The dataset used in this project contains e-commerce order information such as:
 * Delivery Duration
 * Customer Ratings
 
-This data is processed using **Pivot Tables** to generate insights for the dashboard.
+The data was cleaned and structured to perform **sales and customer behavior analysis using Pivot Tables and charts**.
 
 ---
 
-## 📈 Key Dashboard Metrics
+## 📈 Key Business Metrics
 
-The dashboard highlights important business metrics including:
+The dashboard tracks important **business performance indicators**:
 
-* **Total Orders:** 2400
-* **Total Quantity Sold:** 11,997
-* **Total Revenue:** $649K
-* **Average Customer Rating:** 4.0
-* **Average Delivery Time:** 2.3 Days
-
----
-
-## 📊 Dashboard Insights
-
-The dashboard provides insights such as:
-
-* Sales trend for the last 13 weeks
-* Customer purchase behavior across platforms
-* Product popularity by gender
-* Distribution of order quantities
-* Shipment duration analysis
-* Customer satisfaction trends
+| KPI                           | Value    |
+| ----------------------------- | -------- |
+| 🛍 **Total Orders**           | 2400     |
+| 📦 **Total Quantity Sold**    | 11,997   |
+| 💰 **Total Revenue**          | $649K    |
+| ⭐ **Average Customer Rating** | 4.0      |
+| 🚚 **Average Delivery Time**  | 2.3 Days |
 
 ---
 
-## 📷 Dashboard Preview
+## 🔍 Dashboard Insights
+
+Key insights derived from the dashboard include:
+
+✔ Sales trend analysis over the **last 13 weeks**
+✔ Customer purchase behavior across **different sales channels**
+✔ Product popularity segmented by **customer gender**
+✔ Distribution of **order quantities across product categories**
+✔ **Shipment duration and delivery performance analysis**
+✔ Customer satisfaction insights based on **ratings**
+
+These insights help businesses understand **sales performance and customer engagement patterns**.
+
+---
+
+## 🖥 Dashboard Preview
 
 ![Dashboard Preview](Dashboard_preview.jpeg)
 
@@ -71,18 +83,44 @@ The dashboard provides insights such as:
 
 ## 🚀 Skills Demonstrated
 
-This project demonstrates the following data analytics skills:
+This project demonstrates practical skills in:
 
-* Data Cleaning & Preparation
-* Pivot Table Analysis
-* Business Data Visualization
-* Dashboard Design
-* KPI Analysis
+* 📊 Data Cleaning & Data Preparation
+* 📈 Pivot Table Analysis
+* 📉 Business Data Visualization
+* 📊 Dashboard Design & Layout
+* 📌 KPI Tracking & Analysis
+* 📊 Data Storytelling
+
+---
+
+## 📁 Project Structure
+
+```
+Ecommerce-Sales-Dashboard
+│
+├── dataset
+│   └── ecommerce_sales_data.xlsx
+│
+├── dashboard
+│   └── Ecommerce_Sales_Dashboard.xlsx
+│
+├── images
+│   └── Dashboard_preview.jpeg
+│
+└── README.md
+```
 
 ---
 
 ## 👩‍💻 Author
 
 **Devareddy Mayuri**
-Aspiring Data Analyst
-Python | SQL | Excel | Power BI | Data Visualization
+📊 Aspiring Data Analyst
+
+**Skills:**
+Python • SQL • Excel • Power BI • Data Visualization • Data Analytics
+
+---
+
+⭐ *If you found this project useful, feel free to star the repository!*
